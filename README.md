@@ -22,7 +22,7 @@ Principais Ferramentas:
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 </div> 
 
-<br><br>
+<br>
 
 Onde me encotrar:
 <div style="display: inline_block">
