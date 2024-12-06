@@ -39,7 +39,7 @@ Onde me encotrar:
 ## Portfólio e Projetos
 ### Adventure Workds Internet Sales Dashboard
 <img align="right" width="500"  src="https://github.com/GabMorel/AdventureWorksPortfolio/blob/main/IMAGENS/SalesAnalysis.jpg?raw=true">
-Projeto de Dashboard via Power BI e SQL, utilizando o banco de dados AdventureWorks.<br>
+Projeto de Dashboard via Power BI e SQL, utilizando o banco de dados AdventureWorks.
 Neste projeto, foi elaborado um detalhamento sobre as vendas que a empresa AdventureWorks fez pela internet, entre os anos de 2010 a 2014, possibilitando uma visualização limpa e dinâmica dos índices de desempenho da organização. Através desta analise, foi possível evidenciar os principais produtos, categorias e países afetados pela quantidade vendida, valor total de vendas e porcentagem de lucro.
 
 <br>
