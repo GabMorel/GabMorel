@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Gabriel Morel.
+### Hi there! I'm Gabriel Morel. 👋
 ## Student of Business Administration. <br>Targeting Data Analysis and Business Intelligence.
 
 
