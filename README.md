@@ -45,5 +45,5 @@ Neste projeto, foi elaborado um detalhamento sobre as vendas que a empresa Adven
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZGUwNzQ2NmYtOTJkOS00NDhkLWIwNjQtMWZjZmY1MGY2NzRkIiwidCI6IjJhOGY2ZjdiLWNkNjktNDdmMy1hMWVmLWZlZWYyMGRjNmY5MCJ9" target="_blank">Clique aqui</a> e acesse o dashboard desenvolvido para o cliente.
 <br>
-<a href="https://github.com/GabMorel/AdventureWorksPortfolio">Clique aqui</a> e acesse o repositório no Github, com os passos da análise.
+<a href="https://github.com/GabMorel/AdventureWorksPortfolio/blob/main/README.md">Clique aqui</a> e acesse o repositório no Github, com os passos da análise.
 
